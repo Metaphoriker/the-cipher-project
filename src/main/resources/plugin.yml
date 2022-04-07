@@ -1,0 +1,4 @@
+name: Cipher
+version: '${project.version}'
+main: com.cipher.plugin.Cipher
+api-version: 1.18
