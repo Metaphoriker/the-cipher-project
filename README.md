@@ -10,6 +10,7 @@ and create a PR to add to the story of the Cipher Project!
 
 # Set of Rules
 - Each individual may only add a maximum of 35 lines <b><i>of code</i></b> to the project.
+- Each line of code must only have 3 semicolons.
 - Removing lines of code restores the removed set of lines and adds them to the individual's total.
 - Arbitrariness is prohibited.
 - Declarations, Imports, Constructors, Variables, Methods & Brackets count torwards your line count.
