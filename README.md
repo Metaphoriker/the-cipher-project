@@ -1,7 +1,7 @@
 # The Cipher Project
 
 Welcome to the Cipher project! This project is a spigot plugin that aims to add as many unique contributers as possible by
-only allowed each contributer to commit 35 lines of code in they're lifetime.
+only allowing each contributor to commit 35 lines of code in their lifetime.
 
 There is no end goal or goal for this plugin, add what you want! We want to see what the Spigot community is able to create by
 working together with special limitations to the project. Will this turn out to be a Skyblock plugin? A factions plugin? Who knows! Fork this project 
