@@ -1,4 +1,6 @@
-package we.are.project.cipher;import org.bukkit.plugin.java.JavaPlugin;
-public class ProjectCipher extends JavaPlugin {
-    @Override public void onEnable() {}
-    @Override public void onDisable() {}}
+package we.are.project.cipher;
+import org.bukkit.attribute.Attribute;import org.bukkit.entity.LivingEntity;import org.bukkit.event.EventHandler;
+import org.bukkit.event.Listener;import org.bukkit.event.entity.EntitySpawnEvent;import org.bukkit.plugin.java.JavaPlugin;
+public class ProjectCipher extends JavaPlugin implements Listener {
+    @Override public void onEnable() {this.saveDefaultConfig(); this.getServer().getPluginManager().registerEvents(this, this);}@Override public void onDisable() {}
+    @EventHandler public void onSpawn(final EntitySpawnEvent event) {if (!this.getConfig().getStringList("DoubleHealthMobs").contains(event.getEntityType().name()) && !(event.getEntity() instanceof LivingEntity)) return;((LivingEntity) event.getEntity()).getAttribute(Attribute.GENERIC_MAX_HEALTH).setBaseValue(((LivingEntity) event.getEntity()).getAttribute(Attribute.GENERIC_MAX_HEALTH).getBaseValue() * 2D);((LivingEntity) event.getEntity()).setHealth(((LivingEntity) event.getEntity()).getAttribute(Attribute.GENERIC_MAX_HEALTH).getBaseValue());}}
