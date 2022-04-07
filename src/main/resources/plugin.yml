@@ -1,0 +1,4 @@
+name: we.are.project.cipher.Cipher
+version: '${project.version}'
+main: we.are.project.cipher.ProjectCipher
+api-version: 1.18
