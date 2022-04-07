@@ -8,7 +8,7 @@ working together with special limitations to the project. Will this turn out to 
 and create a PR to add to the story of the Cipher Project!
 
 
-# Rules
+# Set of Rules
 You are allowed to only commit 35 amount of lines of code in your lifetime
  - Each individual may only add a maximum of 35 lines <b><i>of code</i></b> to the project.
  - Removing lines of code restores the removed set of lines and adds them to the individual's total.
@@ -19,6 +19,7 @@ You are allowed to only commit 35 amount of lines of code in your lifetime
  - Adding on to the previous rule, any code you commit directly also must not contain any arbitrary or malicious code.
  - You can endlessly replace lines of code, as long as there is valid reason the previous code there wasnt needed (Must specify in your commit).
  - Frameworks used must be specified in the source citation in the README.md.
+ - Arbitrariness is prohibited.
 
 
 ## Source citation
