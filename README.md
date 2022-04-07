@@ -16,6 +16,9 @@ and create a PR to add to the story of the Cipher Project!
 - Declarations, Imports, Constructors, Variables, Methods & Brackets count torwards your line count.
 - Libraries, Utils and Frameworks used must be open source and specified in the source citation in the README.md.
 - Adding malicious code or software to the project in any way is prohibited.
+- To target a main goal is prohibited
+
+The project management reserves the right to reject code additions, libraries, frameworks or other additions.
 
 
 # Source citation
