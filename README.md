@@ -18,8 +18,14 @@ and create a PR to add to the story of the Cipher Project!
 - Libraries, Utils and Frameworks used must be open source and specified in the source citation in the README.md.
 - Adding malicious code or software to the project in any way is prohibited.
 - To target a main goal is prohibited
+- Implemented features must be entered in the <b>[Features](#Features)</b> table
 
 The project management reserves the right to reject code additions, libraries, frameworks or other additions.
 
+# Features
+| Feature      | Author         | Files
+|--------------|----------------|--------
+| Lifesteal    | IkeVoodoo      | ProjectCipher.java
+| DoubleDamage | Buchard37      | ProjectCipher.java
 
 # Source citation
