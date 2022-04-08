@@ -1,2 +1,11 @@
 DoubleHealthMobs:
   - "ZOMBIE"
+
+angelchest:
+  material: "minecraft:red_candle[candles=4,lit=true]"
+  hologram: "&4&l† {player} †"
+  hologram-height: 0.5
+  only-when-inv-not-empty: true
+  message:
+    - "&aAn Angel collected your stuff and somehow managed to store it inside some burning candles. Don't ask me how or why."
+    - "&6Your death candles are located at &e&lX:&a&l{x} &e&lY:&a&l{y} &e&lZ:&a&l{z}"
