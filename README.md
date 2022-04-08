@@ -21,5 +21,10 @@ and create a PR to add to the story of the Cipher Project!
 
 The project management reserves the right to reject code additions, libraries, frameworks or other additions.
 
+# Features
+| Feature      | Author         | Files
+|--------------|----------------|--------
+| Lifesteal    | IkeVoodoo      | ProjectCipher.java
+| DoubleDamage | Buchard37      | ProjectCipher.java
 
 # Source citation
