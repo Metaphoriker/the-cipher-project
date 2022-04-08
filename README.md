@@ -24,10 +24,12 @@ and create a PR to add to the story of the Cipher Project!
 The project management reserves the right to reject code additions, libraries, frameworks or other additions.
 
 # Features
-| Feature        | Author         | Files
-|----------------|----------------|--------
-| Lifesteal      | IkeVoodoo      | ProjectCipher.java
-| DoubleDamage   | Buchard37      | ProjectCipher.java
-| Exploding Eggs | LMBishop       | ProjectCipher.java
+| Feature              | Author         | Files
+|----------------------|----------------|--------
+| Lifesteal            | IkeVoodoo      | ProjectCipher.java
+| Jesus Hack Detection | IkeVoodoo      | ProjectCipher.java
+| Ghost Hand Detection | IkeVoodoo      | ProjectCipher.java
+| DoubleDamage         | Buchard37      | ProjectCipher.java
+| Exploding Eggs       | LMBishop       | ProjectCipher.java
 
 # Source citation
