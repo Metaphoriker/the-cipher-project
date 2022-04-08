@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.Random;
 
-/**Made by Ik#2932, This has limited uses but is really useful to save on lines!*/ public class InfiniteCode { /**Runnables in, Output out*/ public static Object run(ArgRunnable... args) throws Exception {Object result = null;for (ArgRunnable arg : args) result = arg.run(result);return result;}
+/**Made by Ik#2932, This has limited uses but is really useful to save on lines!*/ public class InfiniteCode { /**Runnables in, Output out*/ public static Object run(ArgRunnable... args) throws Exception {Object result = null;for (ArgRunnable arg : args) if(arg != null) result = arg.run(result); return result;}
 /**Interface to run code, takes output from the last, and outputs a new value (first input is null)*/ public interface ArgRunnable { public Object run(Object arg) throws Exception; }public static Object runVoid(Runnable runnable) {runnable.run();return null;}
     private static CommandMap map = null; private static final Random random = new Random(); public static int random(int max) {return random.nextInt(max);}
     public static Object whilst(ArgRunnable condition, ArgRunnable exec, ArgRunnable fail) throws Exception {Object lastExec = null; while(run(condition) != null && (lastExec = exec.run(lastExec)) != null); return lastExec == null ? fail.run(lastExec) : lastExec;}
