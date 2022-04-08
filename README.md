@@ -13,7 +13,8 @@ and create a PR to add to the story of the Cipher Project!
 - Each line of code may only have 3 semicolons.
 - Removing lines of code restores the removed set of lines and adds them to the individual's total.
 - Arbitrariness is prohibited.
-- Declarations, Imports, Constructors, Variables, Methods & Brackets count torwards your line count.
+- Declarations, Constructors, Variables, Methods & Brackets count torwards your line count.
+  - Imports and Whitespaces do not count due to clarity issues
 - Libraries, Utils and Frameworks used must be open source and specified in the source citation in the README.md.
 - Adding malicious code or software to the project in any way is prohibited.
 - To target a main goal is prohibited
