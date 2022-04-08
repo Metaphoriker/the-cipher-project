@@ -37,7 +37,7 @@ public class AllTests {
     void testDoubleHealth() {
         LivingEntity zombie = (LivingEntity) world.spawnEntity(new Location(world, 0,100,0), EntityType.ZOMBIE);
         double health = zombie.getHealth();
-        plugin.onSpawn(new EntitySpawnEvent(zombie));
+        plugin.on(new EntitySpawnEvent(zombie));
         assertEquals(zombie.getHealth(), health * 2);
     }
 
