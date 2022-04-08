@@ -26,6 +26,7 @@ The project management reserves the right to reject code additions, libraries, f
 # Features
 | Feature              | Author         | Files
 |----------------------|----------------|--------
+| AngelChest (death chests) | mfnalex | AngelChestListener.java (5 lines)<br>ProjectCipher.java (2 lines)
 | Lifesteal            | IkeVoodoo      | ProjectCipher.java
 | Jesus Hack Detection | IkeVoodoo      | ProjectCipher.java
 | Ghost Hand Detection | IkeVoodoo      | ProjectCipher.java
