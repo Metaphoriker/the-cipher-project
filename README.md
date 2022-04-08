@@ -12,18 +12,22 @@ and create a PR to add to the story of the Cipher Project!
 - Each individual may only add a maximum of 35 lines <b><i>of code</i></b> to the project.
 - Each line of code may only have 3 semicolons.
 - Removing lines of code restores the removed set of lines and adds them to the individual's total.
+  - Tests are excluded from the above 3 rules
 - Arbitrariness is prohibited.
-- Declarations, Imports, Constructors, Variables, Methods & Brackets count torwards your line count.
+- Declarations, Constructors, Variables, Methods & Brackets count torwards your line count.
+  - Imports/Package declarations and Whitespaces do not count due to clarity issues (Might change at a later point of time) [https://github.com/Luziferium/the-cipher-project/issues/6]
 - Libraries, Utils and Frameworks used must be open source and specified in the source citation in the README.md.
 - Adding malicious code or software to the project in any way is prohibited.
 - To target a main goal is prohibited
+- Implemented features must be entered in the <b>[Features](#Features)</b> table
 
 The project management reserves the right to reject code additions, libraries, frameworks or other additions.
 
 # Features
-| Feature      | Author         | Files
-|--------------|----------------|--------
-| Lifesteal    | IkeVoodoo      | ProjectCipher.java
-| DoubleDamage | Buchard37      | ProjectCipher.java
+| Feature        | Author         | Files
+|----------------|----------------|--------
+| Lifesteal      | IkeVoodoo      | ProjectCipher.java
+| DoubleDamage   | Buchard37      | ProjectCipher.java
+| Exploding Eggs | LMBishop       | ProjectCipher.java
 
 # Source citation
