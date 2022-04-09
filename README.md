@@ -30,6 +30,9 @@ The project management reserves the right to reject code additions, libraries, f
 | Lifesteal            | IkeVoodoo      | ProjectCipher.java
 | Jesus Hack Detection | IkeVoodoo      | ProjectCipher.java
 | Ghost Hand Detection | IkeVoodoo      | ProjectCipher.java
+| Player Join Messages | IkeVoodoo      | ProjectCipher.java
+| Player Quit Messages | IkeVoodoo      | ProjectCipher.java
+| Custom Chat Format   | IkeVoodoo      | ProjectCipher.java
 | DoubleDamage         | Buchard37      | ProjectCipher.java
 | Exploding Eggs       | LMBishop       | ProjectCipher.java
 
