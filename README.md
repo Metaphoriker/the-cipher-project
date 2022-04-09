@@ -24,13 +24,14 @@ and create a PR to add to the story of the Cipher Project!
 The project management reserves the right to reject code additions, libraries, frameworks or other additions.
 
 # Features
-| Feature              | Author         | Files
-|----------------------|----------------|--------
-| AngelChest (death chests) | mfnalex | AngelChestListener.java (5 lines)<br>ProjectCipher.java (2 lines)
-| Lifesteal            | IkeVoodoo      | ProjectCipher.java
-| Jesus Hack Detection | IkeVoodoo      | ProjectCipher.java
-| Ghost Hand Detection | IkeVoodoo      | ProjectCipher.java
-| DoubleDamage         | Buchard37      | ProjectCipher.java
-| Exploding Eggs       | LMBishop       | ProjectCipher.java
+| Feature                   | Author       | Files                                                             |
+|---------------------------|--------------|-------------------------------------------------------------------|
+| AngelChest (death chests) | mfnalex      | AngelChestListener.java (5 lines)<br>ProjectCipher.java (2 lines) |
+| Lifesteal                 | IkeVoodoo    | ProjectCipher.java                                                |
+| Jesus Hack Detection      | IkeVoodoo    | ProjectCipher.java                                                |
+| Ghost Hand Detection      | IkeVoodoo    | ProjectCipher.java                                                |
+| DoubleDamage              | Buchard37    | ProjectCipher.java                                                |
+| Exploding Eggs            | LMBishop     | ProjectCipher.java                                                |
+| Throwing TNT              | MachoPiggies | ThrowingTNT.Java (6 lines)<br>ProjectCipher.java (1 line)         |
 
 # Source citation
