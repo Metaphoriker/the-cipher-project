@@ -1,6 +1,8 @@
 DoubleHealthMobs:
   - "ZOMBIE"
 
+ThrowingTNT: true
+
 angelchest:
   material: "minecraft:red_candle[candles=4,lit=true]"
   hologram: "&4&l† {player} †"
