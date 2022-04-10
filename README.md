@@ -30,7 +30,7 @@ The project management reserves the right to reject code additions, libraries, f
 | Lifesteal                 | IkeVoodoo    | ProjectCipher.java                                                |
 | Jesus Hack Detection      | IkeVoodoo    | ProjectCipher.java                                                |
 | Ghost Hand Detection      | IkeVoodoo    | ProjectCipher.java                                                |
-| DoubleDamage              | Buchard37    | ProjectCipher.java                                                |
+| DoubleDamage              | Buchard37    | ProjectCipher.java (3 lines)                                      |
 | Exploding Eggs            | LMBishop     | ProjectCipher.java                                                |
 | Throwing TNT              | MachoPiggies | ThrowingTNT.Java (6 lines)<br>ProjectCipher.java (1 line)         |
 
