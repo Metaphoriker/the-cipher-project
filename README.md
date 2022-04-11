@@ -36,6 +36,5 @@ The project management reserves the right to reject code additions, libraries, f
 
 # Source citation
 
-# Project Maskot 
 ![image](https://user-images.githubusercontent.com/48583030/162727966-28af56fd-49c0-42c8-af90-054d7b9c4cf8.png)
 
