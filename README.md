@@ -33,6 +33,7 @@ The project management reserves the right to reject code additions, libraries, f
 | DoubleDamage              | Buchard37    | ProjectCipher.java (3 lines)                                      |
 | Exploding Eggs            | LMBishop     | ProjectCipher.java                                                |
 | Throwing TNT              | MachoPiggies | ThrowingTNT.Java (6 lines)<br>ProjectCipher.java (1 line)         |
+| SusPerms                  | ORANG3I      | ProjectCipher.java (3 lines) SusPerms.java (17 lines)             |
 
 # Source citation
 
