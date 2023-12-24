@@ -8,7 +8,7 @@ import org.bukkit.command.CommandSender;
 import java.lang.reflect.Field;
 import java.util.*;
 
-/**Made by Ik#2932, This has limited uses but is really useful to save on lines!*/ public class InfiniteCode { /**Runnables in, Output out*/ public static Object run(ArgRunnable... args) throws Exception {Object result = null;for (ArgRunnable arg : args) result = arg.run(result);return result;}
+/**Made by IkeVoodoo, This has limited uses but is really useful to save on lines!*/ public class InfiniteCode { /**Runnables in, Output out*/ public static Object run(ArgRunnable... args) throws Exception {Object result = null;for (ArgRunnable arg : args) result = arg.run(result);return result;}
 /**Interface to run code, takes output from the last, and outputs a new value (first input is null)*/ public interface ArgRunnable { public Object run(Object arg) throws Exception; }public static Object runVoid(Runnable runnable) {runnable.run();return null;}
     private static CommandMap map = null;
     public static Object whilst(ArgRunnable condition, ArgRunnable exec, ArgRunnable fail) throws Exception {Object lastExec = null; while(run(condition) != null && (lastExec = run(exec)) != null); return lastExec == null ? run(fail) : lastExec;}
