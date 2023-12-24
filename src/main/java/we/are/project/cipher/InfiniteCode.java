@@ -3,7 +3,7 @@ package we.are.project.cipher;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandMap;
-import org.bukkit.command.CommandSender;
+import org.bukkit.command.CommandSender;.
 
 import java.lang.reflect.Field;
 import java.util.*;
